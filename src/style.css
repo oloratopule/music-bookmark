@@ -1,0 +1,22 @@
+body{
+  font-family: Roboto;
+  background-color: #FFBCBC;
+}
+input{
+  height: 30px;
+  width: 70px;
+  background-color: #F38BA0;
+  border-style: none;
+  font-weight: bold;
+  color: white;
+  border-color: white;
+}
+.card{
+  background-color: #FFA0A0;
+}
+h1{
+  color: white;
+}
+button{
+  background-color: #F38BA0;
+}
